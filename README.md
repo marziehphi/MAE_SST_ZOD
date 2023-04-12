@@ -1,6 +1,6 @@
 # Masked Autoencoders for Self-Supervised Learning on Automotive Point Clouds - Zenseact Opensource Dataset (ZOD)
 
-![Alt text](/main_voxel/asset/image.png "ZOD single frame")
+![Alt text](/asset/image.png "ZOD single frame")
 
 ## Usage
 
